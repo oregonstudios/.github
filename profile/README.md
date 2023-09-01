@@ -15,7 +15,6 @@
 
 ### ➤ Quem Somos? 
 
----
 
 Somos uma equipe apaixonada pelo desenvolvimento de software, criada e implementada por alunos do curso técnico em Informática do IFCE. Especializada e treinada no desenvolvimento web.
 
@@ -23,9 +22,12 @@ Somos uma equipe apaixonada pelo desenvolvimento de software, criada e implement
 
 ### ➤ Uma Breve Descrição da Empresa
 
----
+Na Oregon Studios, encaramos cada projeto como uma oportunidade de desafiar o convencional. Nossa equipe de mentes curiosas e destemidas não tem medo de explorar o desconhecido, de encontrar soluções únicas para problemas aparentemente impossíveis. Acreditamos que os verdadeiros avanços vêm quando ousamos ir além dos limites pré-estabelecidos.<br>
+<p>     </p>
+oioio
 
 ---
+
 ### ➤ Qual a Origem do Nosso Nome?
 
 "Oregon Studios" se refere a uma empresa que busca combinar a inspiração da natureza do estado de Oregon com a criatividade associada aos estúdios de produção.
