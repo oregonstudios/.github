@@ -11,6 +11,9 @@
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 
+![OregonStudiosLogo](https://github.com/oregonstudios/.github/assets/123766204/8b5b39c9-3ac8-4764-aa55-3ff5cdc2b4f8)
+
+
 ![Design and Development](https://github.com/oregonstudios/Oregon-Studios/blob/main/OregonStudiosLogo.png)
 
 ## ➤ Quem Somos? 
