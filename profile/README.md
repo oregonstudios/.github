@@ -43,13 +43,13 @@ Enxergamos cada projeto como um tijolo na construção de um futuro digital emoc
 
 ---
 
-### ➤ Qual a Origem do Nosso Nome?
+## ➤ Qual a Origem do Nosso Nome?
 
 "Oregon Studios" se refere a uma empresa que busca combinar a inspiração da natureza do estado de Oregon com a criatividade associada aos estúdios de produção.
 
 ---
 
-### ➤ Integrantes da Empresa
+## ➤ Integrantes da Empresa
 
 <div align="center">
 <table>
