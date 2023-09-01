@@ -59,7 +59,7 @@ Enxergamos cada projeto como um tijolo na construção de um futuro digital emoc
       <br>
       <td align="center"><a href="https://github.com/franciscoweverton"><img src="https://avatars.githubusercontent.com/u/123766204?v=4" width="100px;" alt="Francisco Weverton"/><br /><sub><b>Francisco Weverton</b></sub></a><br /></td>
       <td align="center"><a href="https://github.com/AnaCarolinaClementeCardosoDaSilva"><img src="https://avatars.githubusercontent.com/u/106770900?v=4" width="100px;" alt="Ana Carolina"/><br /><sub><b>Ana Carolína</b></sub></a><br /></td>
-      <td align="center"><a href="https://github.com/aanapaulaa7"><img src="https://lh3.googleusercontent.com/a-/AD_cMMS6_7FrTIuLxwdnWw1ceiMAI9IH-LoTY4y4mc6bx4zkng=s64-p-k-rw-no" width="100px;" alt="Ana Paula"/><br /><sub><b>Ana Paula</b></sub></a><br /></td>
+      <td align="center"><a href="https://github.com/aanapaulaa7"><img src="https://avatars.githubusercontent.com/u/105110621?v=4" alt="Ana Paula"/><br /><sub><b>Ana Paula</b></sub></a><br /></td>
       <td align="center"><a href="https://github.com/murilobispo"><img src="https://avatars.githubusercontent.com/u/112359490?v=4" width="100px;" alt="Murilo Bispo"/><br /><sub><b>Murilo Bispo</b></sub></a><br /></td>
     </tr>
   </tbody>
