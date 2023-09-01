@@ -25,7 +25,7 @@ Somos uma empresa apaixonada pelo desenvolvimento de software, criada e implemen
 
 Na Oregon Studios, somos uma força motriz na criação de soluções de software que redefinem padrões. Acreditamos que cada projeto é uma jornada de inovação, uma oportunidade de transcender o convencional e introduzir soluções digitais excepcionais. Com uma abordagem enraizada na busca pela excelência, construímos um legado de transformar ideias em realidade.
 
-#### Compromisso com a Excelência:
+### Compromisso com a Excelência:
 
 Nossa equipe, composta por profissionais experientes e apaixonados, é a espinha dorsal da Oregon Studios. Unindo habilidades diversas, compartilhamos um compromisso inabalável com a qualidade. Desde a criação de sites elegantes até a complexidade dos webapps, cada linha de código que escrevemos é um testemunho do nosso profundo comprometimento em atender e superar as expectativas dos nossos clientes.
 
