@@ -20,7 +20,7 @@ Somos uma empresa apaixonada pelo desenvolvimento de software, criada e implemen
 
 ---
 
-### ➤ Uma Breve Descrição da Empresa
+## ➤ Uma Breve Descrição da Empresa
 
 
 Na Oregon Studios, somos uma força motriz na criação de soluções de software que redefinem padrões. Acreditamos que cada projeto é uma jornada de inovação, uma oportunidade de transcender o convencional e introduzir soluções digitais excepcionais. Com uma abordagem enraizada na busca pela excelência, construímos um legado de transformar ideias em realidade.
