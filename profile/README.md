@@ -13,7 +13,7 @@
 
 ![Design and Development](https://github.com/oregonstudios/Oregon-Studios/blob/main/OregonStudiosLogo.png)
 
-### ➤ Quem Somos? 
+## ➤ Quem Somos? 
 
 
 Somos uma empresa apaixonada pelo desenvolvimento de software, criada e implementada por alunos do curso técnico em Informática do IFCE. Especializada e treinada no desenvolvimento web.
@@ -29,21 +29,17 @@ Na Oregon Studios, somos uma força motriz na criação de soluções de softwar
 
 Nossa equipe, composta por profissionais experientes e apaixonados, é a espinha dorsal da Oregon Studios. Unindo habilidades diversas, compartilhamos um compromisso inabalável com a qualidade. Desde a criação de sites elegantes até a complexidade dos webapps, cada linha de código que escrevemos é um testemunho do nosso profundo comprometimento em atender e superar as expectativas dos nossos clientes.
 
-Desafiando Limites e Alcançando o Inimaginável:
+### Desafiando Limites e Alcançando o Inimaginável:
 
 Na Oregon Studios, a zona de conforto não é um lugar que frequentamos. Cada projeto nos inspira a explorar o desconhecido, a mergulhar em territórios inexplorados e a encontrar soluções para desafios que parecem intransponíveis. Acreditamos que verdadeiras inovações ocorrem quando audaciosamente nos lançamos além dos limites pré-estabelecidos.
 
-Criação Conjunta e Colaboração Inspirada:
+### Criação Conjunta e Colaboração Inspirada:
 
 Nossa cultura é moldada pela colaboração. Reconhecemos que as melhores soluções são fruto de mentes diversas trabalhando harmoniosamente juntas. Na Oregon Studios, valorizamos cada perspectiva, cada visão singular, pois sabemos que é a partir dessa rica tapeçaria de ideias que nossos projetos ganham vida e brilham.
 
-Traçando um Futuro Digital:
+### Traçando um Futuro Digital:
 
 Enxergamos cada projeto como um tijolo na construção de um futuro digital emocionante. A Oregon Studios não apenas desenvolve software; estamos moldando a paisagem digital. Desde as primeiras linhas de código até a concretização de uma visão completa, estamos empenhados em transformar conceitos em realidade tangível, contribuindo para um mundo digital mais rico e envolvente.
-
-Conecte-se com a Oregon Studios:
-
-Se você busca mais do que simplesmente software - se deseja parceria, inovação e resultados excepcionais - a Oregon Studios está aqui para trilhar essa jornada junto com você. Explore o potencial do nosso código criativo e junte-se a nós enquanto continuamos a definir novos horizontes na criação de soluções digitais notáveis.
 
 ---
 
