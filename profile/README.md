@@ -21,6 +21,11 @@ Somos uma equipe apaixonada pelo desenvolvimento de software, criada e implement
 
 ---
 
+### ➤ Uma Breve Descrição da Empresa
+
+---
+
+---
 ### ➤ Qual a Origem do Nosso Nome?
 
 "Oregon Studios" se refere a uma empresa que busca combinar a inspiração da natureza do estado de Oregon com a criatividade associada aos estúdios de produção.
