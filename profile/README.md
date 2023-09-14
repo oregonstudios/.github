@@ -68,7 +68,9 @@ Enxergamos cada projeto como um tijolo na construção de um futuro digital emoc
 </table>
 </div>
 
-<h3 align="center">Contatos:</h3>
+---
+
+<h3 align="center">Contate-nos:</h3>
 <div align="center">
 
 <a href="" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
