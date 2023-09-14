@@ -68,3 +68,12 @@ Enxergamos cada projeto como um tijolo na construção de um futuro digital emoc
 </table>
 </div>
 
+<h3 align="center">Contatos:</h3>
+<div align="center">
+
+<a href="" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href = "mailto:studiosoregon@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/oregon-studios-9aa991290" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  
+</div>
+
