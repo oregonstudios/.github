@@ -1,3 +1,4 @@
+
 ## Hi there 👋
 
 <!--
@@ -48,6 +49,30 @@ Enxergamos cada projeto como um tijolo na construção de um futuro digital emoc
 ## ➤ Qual a Origem do Nosso Nome?
 
 "Oregon Studios" se refere a uma empresa que busca combinar a inspiração da natureza do estado de Oregon com a criatividade associada aos estúdios de produção.
+
+---
+
+## Missão, Visão e Valores
+
+### Missão da Oregon:
+"Desenvolver e proporcionar soluções web inovadoras, impulsionando a excelência em tecnologia para aprimorar experiências digitais. Comprometemo-nos a criar web apps de alta qualidade, alinhados às necessidades internas e externas da Oregon, promovendo a evolução contínua de nossa presença no mercado."
+
+### Visão da Oregon:
+"Ser reconhecida como uma referência em inovação e excelência na criação de web apps, estabelecendo a Oregon como líder no cenário tecnológico. Buscamos constantemente aprimorar nossas capacidades internas, expandindo nossa presença no mercado e contribuindo para a evolução do setor de tecnologia."
+
+### Valores da Oregon:
+
+Inovação: Buscamos constantemente novas ideias e abordagens para impulsionar a inovação em nossos produtos e processos.
+
+Excelência: Comprometemo-nos com a excelência em cada aspecto de nosso trabalho, visando superar as expectativas em qualidade e desempenho.
+
+Colaboração: Valorizamos o trabalho em equipe e a colaboração, reconhecendo que juntos alcançamos resultados mais significativos.
+
+Adaptabilidade: Estamos abertos à mudança e prontos para nos adaptarmos às evoluções tecnológicas, mantendo-nos ágeis e relevantes.
+
+Transparência: Promovemos uma cultura de transparência, tanto internamente quanto externamente, para construir relacionamentos sólidos baseados na confiança.
+
+Sustentabilidade: Comprometemo-nos a desenvolver soluções sustentáveis, minimizando nosso impacto ambiental e contribuindo para um futuro mais sustentável.
 
 ---
 
