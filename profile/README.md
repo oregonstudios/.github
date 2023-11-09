@@ -52,7 +52,7 @@ Enxergamos cada projeto como um tijolo na construção de um futuro digital emoc
 
 ---
 
-## Missão, Visão e Valores
+## ➤ Missão, Visão e Valores
 
 ### Missão da Oregon:
 "Desenvolver e proporcionar soluções web inovadoras, impulsionando a excelência em tecnologia para aprimorar experiências digitais. Comprometemo-nos a criar web apps de alta qualidade, alinhados às necessidades internas e externas da Oregon, promovendo a evolução contínua de nossa presença no mercado."
