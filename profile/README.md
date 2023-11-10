@@ -98,7 +98,7 @@ Sustentabilidade: Comprometemo-nos a desenvolver soluções sustentáveis, minim
 <h3 align="center">Contate-nos:</h3>
 <div align="center">
 
-<a href="https://www.instagram.com/oregon_estudio6.0/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="https://www.instagram.com/studiosoregon/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "mailto:studiosoregon@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/oregon-studios-9aa991290" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   
