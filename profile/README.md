@@ -1,18 +1,8 @@
 
 ## Hi there 👋
 
-<!--
+<img src="https://github.com/oregonstudios/.github/assets/123766204/8b5b39c9-3ac8-4764-aa55-3ff5cdc2b4f8" width="400" height="400">
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
-
-![OregonStudiosLogo](https://github.com/oregonstudios/.github/assets/123766204/8b5b39c9-3ac8-4764-aa55-3ff5cdc2b4f8)
 
 
 
