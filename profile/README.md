@@ -1,7 +1,8 @@
 
 ## Hi there 👋
 
-<img src="https://github.com/oregonstudios/.github/assets/123766204/8b5b39c9-3ac8-4764-aa55-3ff5cdc2b4f8" width="800" height="800">
+<img src="https://github.com/oregonstudios/.github/assets/123766204/8b5b39c9-3ac8-4764-aa55-3ff5cdc2b4f8" width="100%" alt="OregonStudiosLogo">
+
 
 
 
