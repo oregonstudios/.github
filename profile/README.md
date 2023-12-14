@@ -3,8 +3,7 @@
 
 
 
-![Gold Luxury Initial Circle Logo](https://github.com/oregonstudios/.github/assets/123766204/e8f860f8-3ebe-4300-8269-c72556852ede)
-
+![Gold Luxury Initial Circle Logo (1)](https://github.com/oregonstudios/.github/assets/123766204/cd346546-e9fc-4269-9b8e-11ba084538dd)
 
 
 
