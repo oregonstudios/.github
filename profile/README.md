@@ -1,7 +1,10 @@
 
 ## Hi there 👋
 
-<img src="https://github.com/oregonstudios/.github/assets/123766204/8b5b39c9-3ac8-4764-aa55-3ff5cdc2b4f8" width="400" height="400">
+
+
+https://github.com/oregonstudios/.github/assets/123766204/d9cc7111-aff4-486b-92a0-97fdc547e9f6
+
 
 
 ## ➤ Quem Somos? 
